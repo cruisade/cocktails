@@ -7,7 +7,7 @@
 * [Gin tonic](./cocktails/gin_tonic.md)
 * [Singapore Sling](https://www.diffordsguide.com/cocktails/recipe/4627/singapore-sling-dale-degroffs-recipe)
 * [Mai Tai](https://ru.inshaker.com/cocktails/37-may-tay)
-* [Daikiri](https://www.diffordsguide.com/cocktails/recipe/611/daiquiri-diffords-recipe) 
+* [Daiquiri](https://www.diffordsguide.com/cocktails/recipe/611/daiquiri-diffords-recipe) 
 * [Basil Smash](https://www.edim.tv/cocktails/gin-basil-smash/)
 * [Bloody Mary](./cocktails/bloody_mary.md)
 * [Moscow Mule](https://www.diffordsguide.com/cocktails/recipe/1366/moscow-mule)
