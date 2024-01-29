@@ -19,7 +19,7 @@
 * [Tequilla Sunrise](https://ru.inshaker.com/cocktails/873-tekila-sanrayz)
 * [Negroni](https://ru.inshaker.com/cocktails/55-negroni)
 
-# shots
+# Шоты
 * Gachi shot
 * [B-52](https://ru.inshaker.com/cocktails/164-b-52)
 * [Green Mexican](https://www.edim.tv/cocktails/green-mexican/)
